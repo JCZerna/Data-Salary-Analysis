@@ -21,5 +21,11 @@ To further reduce predictive error, future data collection should prioritize:
 1. **Candidate Skillsets:** Specific languages and tools.
 2. **Metropolitan Locations:** Granular data to account for cost-of-living variances.
 
+## 🛠️ Skills & Tools Used
+* **Languages:** R (Tidyverse)
+* **Statistical Modeling:** Log-linear Regression, Predictive Accuracy Benchmarking ($R^2$ improvement)
+* **Data Manipulation:** Data cleaning, type conversion (`str`), and categorical counting (`distinct`, `count`)
+* **Domain Knowledge:** HR Analytics, Salary Benchmarking, and Remote Work Impact Analysis
+
 ---
 *This analysis was conducted using R and the Tidyverse as part of a DataCamp professional competition.*
