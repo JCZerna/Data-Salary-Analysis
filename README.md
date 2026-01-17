@@ -28,4 +28,8 @@ To further reduce predictive error, future data collection should prioritize:
 * **Domain Knowledge:** HR Analytics, Salary Benchmarking, and Remote Work Impact Analysis
 
 ---
+### 📂 Dataset
+The analysis is based on a survey of **57,194 records** (2020–2024) provided in `salaries.csv` by a global HR consultancy.
+
+---
 *This analysis was conducted using R and the Tidyverse as part of a DataCamp professional competition.*
