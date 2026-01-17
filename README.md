@@ -27,6 +27,16 @@ To further reduce predictive error, future data collection should prioritize:
 * **Data Manipulation:** Data cleaning, type conversion (`str`), and categorical counting (`distinct`, `count`)
 * **Domain Knowledge:** HR Analytics, Salary Benchmarking, and Remote Work Impact Analysis
 
+## 🎯 Project Objective
+The goal of this analysis was to provide an international HR consultancy with data-driven insights into global tech salary trends. By analyzing variables such as job role, experience level, and remote work status, we developed a predictive model to help clients offer competitive compensation packages.
+
+## 🚀 How to Run this Project
+To replicate the analysis and view the full code execution:
+1. **Clone the repository:** `git clone https://github.com/YOUR_USERNAME/Data-Salary-Analysis.git`
+2. **Open the Notebook:** Open `notebook.ipynb` in any Jupyter-compatible environment or RStudio.
+3. **Data Dependency:** Ensure `salaries.csv` is in the same directory as the notebook.
+4. **Environment:** This analysis requires **R** and the `tidyverse` library.
+
 ---
 ### 📂 Dataset
 The analysis is based on a survey of **57,194 records** (2020–2024) provided in `salaries.csv` by a global HR consultancy.
